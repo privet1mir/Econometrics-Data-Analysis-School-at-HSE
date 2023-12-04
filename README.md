@@ -5,6 +5,6 @@ Here you can some simple projects implemented in python during the winter school
 
 Now there are two main projects: 
 
-* Coconut oil price forecasting using both econometrics & ML models.
+* Coconut oil price time series forecasting using both econometrics & ML models.
 
 * Bootstrap from scratch for Laplce distribution parameters estimation and for real-life dataset from kaggle. 
